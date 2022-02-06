@@ -1,0 +1,1 @@
+I completed execute tasks, and studied how to work in Git and GitHub on basic level. The first task is the best for studying Git and to understand it. But I suffered, when setup up Git on Windows. Use its on Linux machine more conventient.
