@@ -1,0 +1,18 @@
+dd14143 HEAD@{0}: merge develop: Fast-forward
+7f8768d HEAD@{1}: checkout: moving from develop to main
+dd14143 HEAD@{2}: commit (merge): Fix problem
+01ee692 HEAD@{3}: merge images: Fast-forward
+ad7a19d HEAD@{4}: checkout: moving from styles to develop
+9afc03b HEAD@{5}: commit: Chahge html.
+f90a512 HEAD@{6}: commit: Add styles source
+ad7a19d HEAD@{7}: checkout: moving from develop to styles
+ad7a19d HEAD@{8}: checkout: moving from images to develop
+01ee692 HEAD@{9}: commit: modified index.html
+dc0bda7 HEAD@{10}: commit: Add a new Image.
+ad7a19d HEAD@{11}: checkout: moving from develop to images
+ad7a19d HEAD@{12}: commit: Create file empty index.html
+7f8768d HEAD@{13}: checkout: moving from main to develop
+7f8768d HEAD@{14}: commit: Create a new file.
+aed350c HEAD@{15}: commit: Some change
+0d8dbe6 HEAD@{16}: pull: Fast-forward
+c7e3711 HEAD@{17}: clone: from https://github.com/zakharPidlisetskyi/DevOps_online_Lviv_2022Q1Q2.git
