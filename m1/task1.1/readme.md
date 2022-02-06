@@ -1,1 +1,3 @@
 I completed execute tasks, and studied how to work in Git and GitHub on basic level. The first task is the best for studying Git and to understand it. But I suffered, when setup up Git on Windows. Use its on Linux machine more conventient.
+
+DevOps - this isn't just a proffession, it's ordianry method of solving the problem between team of exploitation and development. Because in case of any problems with the first team, this were fixed by developers. So, product was released late. Inclusion of DevOps in projects solved this problems.
