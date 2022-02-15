@@ -1,0 +1,2 @@
+The most popular hypervisors for virtualization are Xen and VMware, because Xen is AWS' hypervisor and AWS is the most popular servis for virtualization. VMware is popular client-application for PC.
+Xen is microkernel hypervisor, VMware is molithic, so there is it control drivers and at Xen virtual machines control drivers.
