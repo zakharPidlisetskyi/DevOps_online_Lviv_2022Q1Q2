@@ -1,0 +1,3 @@
+I created, launch and terminate my first instance in EC2. Created two backups by snapshot and AWS Backup. Backup which created by AWS Backup was removed.
+After launch second instance and attaching Disk_D, I can remove snapshot which used for creating this instance. In MobaXterm I connected to my instance and
+set up attached disk for using in the centos system, because this volume didn't have filesystem, so I configured it and mounted the disk as /data directory.
